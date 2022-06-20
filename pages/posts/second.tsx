@@ -6,7 +6,7 @@ const second = () => {
     return (
         <>
         <h1>
-            <Link href="/posts/first-post">
+            <Link href="/">
                 <a> Go to Home </a>
             </Link>
         </h1>
